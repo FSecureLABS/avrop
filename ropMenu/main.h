@@ -1,0 +1,9 @@
+int main(void);
+void main_menu();
+void addNoteMenu();
+void readNoteMenu();
+void deleteNoteMenu();
+int16_t getNoteLength();
+char getCommand();
+void saveNote();
+void uart_flush();
