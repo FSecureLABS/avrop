@@ -7,7 +7,7 @@ ropMenu is a vulerable application for an Arduino Mega2560 where you can add and
 Find out more from [https://labs.mwrinfosecurity.com/blog/avrop](https://labs.mwrinfosecurity.com/blog/avrop)
 
 ##PoC
-Compile ropMenu using Atmel Studio and dowload it to an Arduio Mega2560
+Compile ropMenu using Atmel Studio and dowload it to an Arduino Mega2560
 You can connect to the application over UART on TX0/RX0:
 
 screen /dev/ttyUSB0 38400 8N1
